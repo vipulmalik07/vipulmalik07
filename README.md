@@ -22,7 +22,7 @@ Experienced in webdevlopment, reactjs, javascript, html, css, wix, c++, python �
 
 WeatherApp 🌟: A React.js web app that provides real-time weather information. Enter a city name to see current conditions including temperature and humidity. Featuring a clean, user-friendly interface and powered by a Weather API. 🌍
 
-Project 2 🚀: A sleek and interactive landing page for a car, built with React.js. It features a dynamic carousel to showcase different models and a clean, modern design. Perfect for a basic yet effective web presence. 🌟 🤖
+landingPage 🚀: A sleek and interactive landing page for a car, built with React.js. It features a dynamic carousel to showcase different models and a clean, modern design. Perfect for a basic yet effective web presence. 🌟 🤖
 
 📫 How to Reach Me:
 
