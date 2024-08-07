@@ -26,6 +26,8 @@ Experienced in web development, React.js, JavaScript, HTML, CSS, Wix, C++, Pytho
 
 **Gemini AI Clone 🤖:** A React.js application that replicates the functionality of the Gemini AI. Utilizes the Gemini API to deliver powerful AI responses. The app is fully responsive, ensuring a seamless experience on both large and small screens. 🌐📱
 
+  **Live Preview 👉**: [Gemini AI Clone](https://react-gemini-ai-clone.web.app/)
+
 ## 📫 How to Reach Me:
 
 - **Email:** Chvipulmalik07@gmail.com 📧
@@ -39,4 +41,3 @@ Check out my projects below and feel free to contribute or leave feedback! 🚀
 - [https://github.com/vipulmalik07/React-Projects](https://github.com/vipulmalik07/React-Projects)
 
 Thanks for stopping by my profile! 😄
-
