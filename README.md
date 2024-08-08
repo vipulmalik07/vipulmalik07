@@ -24,6 +24,8 @@ Experienced in web development, React.js, JavaScript, HTML, CSS, Wix, C++, Pytho
 
 **Car-Landing Page 🚗:** A sleek and interactive landing page for a car, built with React.js. It features a dynamic carousel to showcase different models and a clean, modern design. Perfect for a basic yet effective web presence. 🌟
 
+  **Live Preview 👉**: [Car-Landing Page](https://reactjs-car-landingpage.web.app/)
+
 **Gemini AI Clone 🤖:** A React.js application that replicates the functionality of the Gemini AI. Utilizes the Gemini API to deliver powerful AI responses. The app is fully responsive, ensuring a seamless experience on both large and small screens. 🌐📱
 
   **Live Preview 👉**: [Gemini AI Clone](https://react-gemini-ai-clone.web.app/)
