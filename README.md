@@ -58,4 +58,3 @@ Thanks for stopping by my profile! 😄
 
 ---
 
-You can adjust the text styles further using Markdown or other formatting options as per your preference!
